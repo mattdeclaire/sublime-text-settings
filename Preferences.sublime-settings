@@ -17,7 +17,6 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"indent_to_bracket": true,
 	"margin": 0,
 	"overlay_scroll_bars": "enabled",
 	"remember_open_files": false,
