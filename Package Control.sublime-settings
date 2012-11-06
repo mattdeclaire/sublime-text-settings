@@ -1,9 +1,12 @@
 {
-	"auto_upgrade_last_run": 1350603977,
+	"auto_upgrade_last_run": 1352132671,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"CSV",
+		"DetectSyntax",
+		"Git",
+		"Goto Documentation",
 		"jQuery Snippets pack",
 		"LoremIpsum",
 		"Nettuts+ Fetch",
