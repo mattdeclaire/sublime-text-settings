@@ -1,21 +1,26 @@
 {
-	"auto_upgrade_last_run": 1352132671,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"CSV",
 		"DetectSyntax",
+		"Emmet",
 		"Git",
 		"Goto Documentation",
+		"HTML Mustache",
 		"jQuery Snippets pack",
 		"LoremIpsum",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PHPUnit Completions",
+		"Sass",
+		"Search WordPress Codex",
 		"SideBarEnhancements",
 		"Sublime Finder",
 		"SublimeLinter",
-		"SublimeTODO",
-		"ZenCoding"
+		"Trimmer",
+		"Wordpress",
+		"Xdebug"
 	]
 }
