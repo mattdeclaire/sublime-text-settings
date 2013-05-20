@@ -5,6 +5,7 @@
 		"AdvancedNewFile",
 		"CSV",
 		"DashDoc",
+		"DetectSyntax",
 		"DocBlockr",
 		"FileDiffs",
 		"Goto Documentation",
