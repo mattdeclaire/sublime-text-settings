@@ -1,0 +1,9 @@
+{
+	// "phpcs_additional_args": {
+	// 	"--standard": "PSR2",
+	// 	"-n": ""
+	// },
+	// "phpcs_executable_path": "/Users/matt/Sites/phpcs/vendor/bin/phpcs",
+	// "phpmd_executable_path": "/Users/matt/Sites/phpcs/vendor/bin/phpmd",
+	// "php_cs_fixer_executable_path": "/Users/matt/Sites/phpcs/vendor/bin/php-cs-fixer"
+}

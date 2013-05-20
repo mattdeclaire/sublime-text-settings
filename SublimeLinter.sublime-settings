@@ -1,6 +1,6 @@
 {
 	"sublimelinter_disable":
 	[
-		"scss"
+		"css"
 	]
 }
