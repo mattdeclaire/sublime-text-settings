@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[{{#tl}}$SELECTION{{/tl}}]]></content>
+	<scope>source.tpl</scope>
+</snippet>

@@ -1,0 +1,8 @@
+{
+  "mappings": [
+		{
+			"source": "/Users/matt/Sites/weebly",
+			"destination": "/mnt/path"
+		}
+	]
+}

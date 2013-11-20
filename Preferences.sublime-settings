@@ -13,14 +13,25 @@
 		"CVS",
 		".sass-cache"
 	],
-	"font_size": 11.0,
+	"font_size": 12.0,
 	"git_gutter_live_mode": false,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Git",
+		"Sass",
+		"Trimmer",
+		"Vintage",
+		"Search WordPress Codex",
+		"Goto Documentation",
+		"Http Requester",
+		"Wordpress",
+		"Phpcs",
+		"Origami",
+		"Emmet",
+		"SublimeLinter"
 	],
 	"indent_guide_options":
 	[

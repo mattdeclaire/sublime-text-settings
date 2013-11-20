@@ -3,6 +3,8 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Backbone.js",
+		"Backbone.Marionette",
 		"CSV",
 		"DashDoc",
 		"DocBlockr",
@@ -12,14 +14,19 @@
 		"GitGutter",
 		"Goto Documentation",
 		"HTML Mustache",
+		"HtmlTidy",
 		"Http Requester",
+		"Javascript Beautify",
 		"jQuery Snippets pack",
+		"JsFormat",
+		"LiveStyle",
 		"LoremIpsum",
 		"Nettuts+ Fetch",
 		"Origami",
 		"Package Control",
 		"Phpcs",
 		"PHPUnit Completions",
+		"Pretty JSON",
 		"Sass",
 		"Search WordPress Codex",
 		"SideBarEnhancements",
@@ -27,6 +34,6 @@
 		"SublimeLinter",
 		"Trimmer",
 		"Wordpress",
-		"Xdebug"
+		"Xdebug Client"
 	]
 }
