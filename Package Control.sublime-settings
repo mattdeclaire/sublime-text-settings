@@ -1,24 +1,30 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Backbone.js",
 		"Backbone.Marionette",
+		"Codebug",
 		"CSV",
 		"DashDoc",
 		"DocBlockr",
 		"FileDiffs",
-		"GitGutter",
 		"HTML Mustache",
 		"HtmlTidy",
 		"LoremIpsum",
+		"Modific",
+		"Open Finder",
 		"Package Control",
+		"PHPUnit Completions",
 		"Pretty JSON",
+		"Rsync SSH",
 		"Sass",
 		"Search WordPress Codex",
 		"SideBarEnhancements",
-		"Sublime Finder",
 		"Trimmer"
 	]
 }

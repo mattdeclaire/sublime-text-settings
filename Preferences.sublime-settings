@@ -4,6 +4,7 @@
 	"color_scheme": "Packages/User/Solarized (Light) (SL).tmTheme",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
+	"enable_tab_scrolling": false,
 	"fold_buttons": false,
 	"folder_exclude_patterns":
 	[
@@ -13,16 +14,16 @@
 		"CVS",
 		".sass-cache"
 	],
-	"font_size": 12.0,
+	"font_size": 11.0,
 	"git_gutter_live_mode": false,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
 		"Search WordPress Codex",
-		"Sass"
+		"Sass",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[

@@ -1,12 +1,12 @@
 {
-	"path_mapping": {
-		"/var/www/weebly/declaire/html" : "/mnt/path/html"
-	},
-	"ide_key": "sublime.xdebug",
-	"url": "http://declaire.weebly.com",
-	"port": 9000,
+	"break_on_start": true,
 	"close_on_stop": true,
 	"max_depth": 3,
-	"max_children": 32,
-	"debug": true
+	"break_on_exception": [
+		"Fatal error",
+		"Catchable fatal error",
+		"Parse error",
+		"Xdebug",
+		"Unknown error",
+	],
 }
