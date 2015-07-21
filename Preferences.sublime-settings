@@ -21,9 +21,9 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Search WordPress Codex",
 		"Sass",
-		"Vintage"
+		"Vintage",
+		"Search WordPress Codex"
 	],
 	"indent_guide_options":
 	[
